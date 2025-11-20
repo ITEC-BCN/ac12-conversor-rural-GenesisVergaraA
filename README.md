@@ -1,16 +1,36 @@
  
 
 
-> Open this page at [https://raimonizard.github.io/demo/](https://raimonizard.github.io/demo/)
+# Convertidor Rural en MakeCode Arcade
 
-## Use as Extension
+## Descripció 
+És un joc on converteixes entre productes del camp i la llenya. Intercanvia gallines, patates, cabres i més pel seu valor en llenya!
 
-This repository can be added as an **extension** in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/raimonizard/demo** and import
+## Taula de productes
+| Producte | Lenya |
+|----------|---------------------|
+| 🐔 |6 |
+| 🥔x1.5 | 2 |
+| 🐐 | 5 |
+| 🥚x12 | 3 |
+| 🐴 | 12 |
+
+## Captures del joc
+
+### Pantalla Principal
+<img width="1121" height="839" alt="image" src="https://github.com/user-attachments/assets/f5afeae0-cd4f-42d7-99d6-00db4ce8abb4" />
+### Mercat
+
+<img width="1001" height="767" alt="image" src="https://github.com/user-attachments/assets/afa2b0a5-534e-41c0-8ca2-91d4b51c34ab" />
+
+### Resultat d'una conversió
+
+<img width="969" height="743" alt="image" src="https://github.com/user-attachments/assets/a519c612-04f0-4ec1-9b46-bdc44b8ea79a" />
+
+### Validació d'entrada incorrecta
+<img width="1002" height="729" alt="image" src="https://github.com/user-attachments/assets/b889cbee-f298-4085-8361-2851bc571774" />
+
 
 ## Edit this project ![Build status badge](https://github.com/raimonizard/demo/workflows/MakeCode/badge.svg)
 
@@ -18,7 +38,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/raimonizard/demo** and click import
+* paste **https://github.com/ITEC-BCN/ac12-conversor-rural-GenesisVergaraA** and click import
 
 ## Blocks preview
 
