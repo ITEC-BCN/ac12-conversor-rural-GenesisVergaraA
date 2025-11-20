@@ -20,6 +20,7 @@
 
 ### Pantalla Principal
 <img width="1121" height="839" alt="image" src="https://github.com/user-attachments/assets/f5afeae0-cd4f-42d7-99d6-00db4ce8abb4" />
+
 ### Mercat
 
 <img width="1001" height="767" alt="image" src="https://github.com/user-attachments/assets/afa2b0a5-534e-41c0-8ca2-91d4b51c34ab" />
